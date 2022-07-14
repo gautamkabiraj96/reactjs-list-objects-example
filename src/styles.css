@@ -1,0 +1,14 @@
+body {
+  background-color: #eeeeee;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.list-container {
+  border: 1px solid rgb(231, 231, 231);
+  margin: 20px 0px;
+  background-color: #fff;
+}
